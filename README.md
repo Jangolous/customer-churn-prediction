@@ -48,15 +48,6 @@ The dataset includes customer demographic information, subscription details, ser
 - Churn (Yes / No)
 
 
-## Project Structure
-customer-churn-prediction/
-│
-├── data/
-├── Customer_Churn_Prediction_using_Machine_Learning.ipynb
-├── requirements.txt
-└── README.md
-
-
 ## Methodology
 
 ### 1. Data Cleaning and Preparation
