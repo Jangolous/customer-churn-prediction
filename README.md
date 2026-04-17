@@ -5,6 +5,12 @@ This project builds a complete machine learning pipeline to predict customer chu
 
 The repository contains the full workflow from raw data to model evaluation and interpretation.
 
+## Open in Google Colab
+
+You can run the notebook directly in your browser:
+
+[Open Notebook in Colab](https://colab.research.google.com/drive/1sGzec7vSW7XZK3bpqt48-vBRrgoBXHeh?usp=sharing)
+
 
 ## Business Problem
 Customer acquisition is significantly more expensive than customer retention. Being able to anticipate churn allows companies to:
